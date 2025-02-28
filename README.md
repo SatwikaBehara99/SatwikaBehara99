@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello, World! I'm [Behara Satwika] 
+💻 **Aspiring Developer | Java Enthusiast | Web Explorer**  
 
-<!--
-**SatwikaBehara99/SatwikaBehara99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm diving into the world of **Java programming, web development, and Excel** to build something amazing. Currently, I'm learning and experimenting with new technologies to sharpen my skills.  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- 🔹 Learning **Java** for backend development & software engineering  
+- 🔹 Exploring **web development** (HTML, CSS, JavaScript, and beyond)  
+- 🔹 Enhancing **Excel** automation for data-driven insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On  
+✅ Building real-world projects to apply my skills  
+✅ Learning **full-stack web development**  
+✅ Contributing to open-source projects  
+
+## 📫 Connect With Me  
+💡 Always open to learning, collaborating, and networking! Let's create something amazing together.  
+
+---
+💻 **"Code, Learn, Improve, Repeat!"** 🚀.  
